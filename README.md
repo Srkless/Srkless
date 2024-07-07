@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **2D game engine**
  
- 🌱 I’m currently learning **SQL**
+ 🌱 I’m currently learning **Java Networking**
 
 💬 Ask me about **Java, C++**
 
